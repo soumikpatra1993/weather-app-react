@@ -4,7 +4,7 @@ class Weather extends Component {
     render () {
         return (
             <div className ='form-wrapper'>
-     <div>Weather component</div>
+     <div>Weather components</div>
             </div>
         )
     }
